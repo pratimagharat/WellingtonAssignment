@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50186" started-at="2019-04-20T15:44:55Z" finished-at="2019-04-20T15:45:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50186" started-at="2019-04-20T15:44:55Z" finished-at="2019-04-20T15:45:46Z">
+      <class name="SONI.Assignment1.GoogleSearchPage">
+        <test-method status="PASS" signature="loadurl()[pri:0, instance:SONI.Assignment1.GoogleSearchPage@59fa1d9b]" name="loadurl" is-config="true" duration-ms="32712" started-at="2019-04-20T21:14:56Z" finished-at="2019-04-20T21:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadurl -->
+        <test-method status="PASS" signature="searchurl()[pri:0, instance:SONI.Assignment1.GoogleSearchPage@59fa1d9b]" name="searchurl" duration-ms="16777" started-at="2019-04-20T21:15:28Z" finished-at="2019-04-20T21:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchurl -->
+        <test-method status="PASS" signature="closeGoogle()[pri:0, instance:SONI.Assignment1.GoogleSearchPage@59fa1d9b]" name="closeGoogle" is-config="true" duration-ms="675" started-at="2019-04-20T21:15:45Z" finished-at="2019-04-20T21:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeGoogle -->
+      </class> <!-- SONI.Assignment1.GoogleSearchPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
